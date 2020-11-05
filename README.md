@@ -1,4 +1,4 @@
-### Diogo Giomo _:
+### Diogo Giomo:
 
 I'm a Full Stack Developer;
 
