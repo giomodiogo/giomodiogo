@@ -2,6 +2,9 @@
 
 I'm a Full Stack Developer;
 
+---
+ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/giomodiogo/)
+
 - 🔭 I’m currently working on Totvs;
 - :blue_heart: I love working with React, React Native and Java;
 <!--
