@@ -4,7 +4,7 @@
 
 I'm a Full Stack Developer;
 
-- 🔭 I’m currently working on Totvs;
+- 🔭 I’m currently working on CI&T;
 - :blue_heart: I love working with React, React Native and Java;
 <!--
 **giomodiogo/giomodiogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
